@@ -79,6 +79,7 @@ body {
     background: rgba(25, 25, 25, 0.9);
     width: 100%;
     z-index: 3;
+    margin-top: -1px;
 }
 
 .topbar .sub-menu ul {
