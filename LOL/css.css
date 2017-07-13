@@ -43,9 +43,11 @@ body {
 }
 
 /*topbar main-menu*/
+.topbar .global-navigation {
+    float: left;
+}
 .topbar .main-menu {
     margin-left: 200px;
-    float: left;
 }
 
 .topbar .main-menu li {
@@ -79,7 +81,6 @@ body {
     background: rgba(25, 25, 25, 0.9);
     width: 100%;
     z-index: 3;
-    margin-top: -1px;
 }
 
 .topbar .sub-menu ul {
