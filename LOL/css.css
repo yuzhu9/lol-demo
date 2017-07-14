@@ -1138,8 +1138,7 @@ body {
 .recommend-activity ul .activity-item a:hover img {
     width: 312px;
     height: 135px;
-    top: -2px;
-    left: -6px;
+    transform: scale(1.1);
     transition: ease all .8s;
 }
 
