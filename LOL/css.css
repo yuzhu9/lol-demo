@@ -201,7 +201,9 @@ body {
     top: 100%;
     left: 0;
 }
-
+.topbar .user-navigation .personal-center a {
+    color: #ffffff;
+}
 /*topbar user-navigation:hover*/
 .topbar .user-navigation:hover {
     background: rgba(25, 25, 25, 0.9);
