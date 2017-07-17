@@ -462,6 +462,10 @@ body {
     width: 820px;
 }
 
+.slides-and-downloads .slides-wrapper .slides img{
+    height: 100%;
+}
+
 .slides-and-downloads .slidesjs-pagination li {
     float: left;
     width: 20%;
